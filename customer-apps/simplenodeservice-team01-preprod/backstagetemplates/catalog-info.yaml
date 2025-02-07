@@ -29,7 +29,7 @@ metadata:
 spec:
   type: website
   owner: team01
-  lifecycle: preprod
+  lifecycle: qa
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Group
